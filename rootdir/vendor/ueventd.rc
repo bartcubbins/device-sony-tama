@@ -172,7 +172,7 @@ firmware_directories /vendor/firmware_mnt/image/
 /sys/class/leds/blue     delay_on           0664 system    system
 
 /sys/class/backlight/panel0-backlight max_brightness    0644 root   system
-/sys/class/backlight/panel0-backlight brightness        0664 system system                                                                                 0664 system system
+/sys/class/backlight/panel0-backlight brightness        0664 system system
 
 # Fingerprint sensor  device
 /dev/fingerprint         0664 system input
